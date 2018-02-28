@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5431 Robotics Game 3", "Assembly-CSharp.csproj", "{6E3400CE-CA53-1B97-0F5C-57A9134C4B52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5431 Robotics Game 3", "Assembly-CSharp-Editor.csproj", "{33F1BC7D-8275-237B-D696-167C212AB95B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E3400CE-CA53-1B97-0F5C-57A9134C4B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3400CE-CA53-1B97-0F5C-57A9134C4B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3400CE-CA53-1B97-0F5C-57A9134C4B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3400CE-CA53-1B97-0F5C-57A9134C4B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F1BC7D-8275-237B-D696-167C212AB95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F1BC7D-8275-237B-D696-167C212AB95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F1BC7D-8275-237B-D696-167C212AB95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F1BC7D-8275-237B-D696-167C212AB95B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

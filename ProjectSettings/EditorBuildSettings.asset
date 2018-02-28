@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MenuScreen.unity
+    guid: d9f2e2dc43f268d478e2d6332ce6fc03
+  - enabled: 1
+    path: Assets/5431 robot.unity
+    guid: 6b7417909f148a4429b05ed4bc09d56b
